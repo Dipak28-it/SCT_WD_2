@@ -1,5 +1,5 @@
-# SCT_WD_2
-The  repository consists Skill Craft technology intern's 2nd project/Task 
+# STOP-WATCH-PROJECT
+The  repository consists Skill Craft technology intern's 1st project/Task 
 <br>- Author - DIPAK CHORMALE
 # Stopwatch Application README
 
