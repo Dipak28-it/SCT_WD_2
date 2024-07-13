@@ -1,6 +1,6 @@
 # SCT_WD_2
 The  repository consists Skill Craft technology intern's 2nd project/Task 
-<br>- Author - Harshad Zambre
+<br>- Author - DIPAK CHORMALE
 # Stopwatch Application README
 
 Welcome to the Stopwatch Application project! This sleek, functional stopwatch is perfect for timing any activity with precision and style. Below is a quick guide to get you started.
